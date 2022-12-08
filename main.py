@@ -5,7 +5,7 @@ from aiogram import Bot, Dispatcher
 from db.database import Base, engine
 from routers.router import router
 
-TOKEN = '5311392408:AAHg8Q5VdFfgdnqhrmgNOPthjRIXUo_l3-U'  # Делаю ботю для себя, поэтому пусть токен будет открытым)
+TOKEN = 'token'  # Делаю ботю для себя, поэтому пусть токен будет открытым)
 
 
 async def main():
